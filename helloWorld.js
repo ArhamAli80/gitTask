@@ -1,1 +1,2 @@
-console.log("Git is awesome!")
+let input = prompt("Enter message")
+console.log(input)
